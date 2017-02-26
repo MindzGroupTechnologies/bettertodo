@@ -1,0 +1,11 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "amd",
+        "removeComments": true,
+        "outDir": "js",
+        "alwaysStrict": true,
+        "emitBOM": false,
+        "target": "es5"
+    }
+}
