@@ -1,4 +1,4 @@
-import * as ToDoApp from "./ToDoApp";
+import * as ToDoApp from "./todoApp";
 import * as $ from "jquery";
 
 module ToDoAppUI {
