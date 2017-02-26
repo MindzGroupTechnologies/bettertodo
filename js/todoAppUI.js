@@ -1,4 +1,4 @@
-define(["require", "exports", "./ToDoApp", "jquery"], function (require, exports, ToDoApp, $) {
+define(["require", "exports", "./todoApp", "jquery"], function (require, exports, ToDoApp, $) {
     "use strict";
     var ToDoAppUI;
     (function (ToDoAppUI) {
